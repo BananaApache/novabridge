@@ -1,6 +1,6 @@
 # A simple Ethereum smart contract for a call option between Party A and Party B
 
-@version ^0.3.9
+#pragma version >0.3.10
 
 # State variables
 partyA: public(address)
