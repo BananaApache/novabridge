@@ -43,6 +43,3 @@ Returns the option to **Party A** if it is not exercised before the expiration d
 - Integration with **Layer 2 solutions** for lower gas fees
 - Automated **liquidity pools** for option settlements
 
-## License
-This project is licensed under the **MIT License**.
-
