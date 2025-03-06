@@ -1,4 +1,4 @@
-# OptiBridge - Decentralized Call Option Smart Contract
+# NovaBridge - Decentralized Call Option Smart Contract
 
 ## Overview
 OptiBridge is a decentralized smart contract facilitating call option transactions between two parties, ensuring **secure, trustless, and automated execution** using the **Vyper** programming language on Ethereum.
