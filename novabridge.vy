@@ -1,7 +1,5 @@
-# SPDX-License-Identifier: MIT
 # A simple Ethereum smart contract for a call option between Party A and Party B
 
-# Declare Vyper version
 @version ^0.3.9
 
 # State variables
